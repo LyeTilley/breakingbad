@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from '../../img/logo.png'
-
+<h1>Hi</h1>
 const Header = () => {
     return (
         <header className='center'>
@@ -8,5 +8,7 @@ const Header = () => {
         </header>
     )
 }
+
+
 
 export default Header
